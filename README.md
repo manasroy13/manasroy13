@@ -5,7 +5,7 @@
 📫 Email: **mkroy030719@gmail.com**  
 
 🌐 Portfolio: https://manasrayportfoliocom.vercel.app/  
-📄 Resume: https://drive.google.com/file/d/1ey4YVS1qoI8j67imK1PiPzu7zM4SWjnh/view?usp=sharing  
+📄 Resume: https://drive.google.com/file/d/1cGwd7GmistGiOe3liz3b6DQUxJyaP1aJ/view?usp=sharing  
 
 ---
 
@@ -56,7 +56,7 @@ maintaining well-documented repositories.
 
 ## 🌐 Connect With Me
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://manasrayportfoliocom.vercel.app/)
-[![Resume](https://img.shields.io/badge/Resume-%234285F4.svg?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1ey4YVS1qoI8j67imK1PiPzu7zM4SWjnh/view)
+[![Resume](https://img.shields.io/badge/Resume-%234285F4.svg?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1cGwd7GmistGiOe3liz3b6DQUxJyaP1aJ/view)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manasroy13)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/manasroy__13)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mkroy030719@gmail.com)
@@ -88,9 +88,12 @@ maintaining well-documented repositories.
 
 ### 🔹 Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🔹 Cloud, DevOps & Tools
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge&logo=apache-kafka&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
