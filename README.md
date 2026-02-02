@@ -27,25 +27,6 @@ maintaining well-documented repositories.
 
 ---
 
-## 🚀 Featured Projects
-
-### 🧍 Pose Correction Application
-- Real-time human pose estimation using **MediaPipe & OpenCV**
-- Joint angle calculation and posture feedback
-- Live skeleton and keypoint visualization
-
-### 🛰️ Automatic Detection on DOTA Dataset
-- Object detection using **YOLOv5–YOLOv8**
-- Oriented bounding boxes for aerial imagery
-- Remote sensing dataset analysis
-
-### 📰 NLP-Based Fake News Detection System
-- Text preprocessing using **TF-IDF**
-- ML & DL model comparison
-- Precision, Recall, and F1-score evaluation
-
----
-
 ## 🧠 Current Learning Roadmap
 - Generative AI & Large Language Models  
 - Transformer architectures  
@@ -113,6 +94,13 @@ maintaining well-documented repositories.
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=manasroy13&theme=onedark&no-frame=true&row=1)
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 ---
 
