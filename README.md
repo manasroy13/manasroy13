@@ -1,3 +1,16 @@
+# 💫 Hi 👋, I'm CHAUDHARY MANAS RAY
+**A passionate AI/ML Engineer || COMPUTER VISION Engineer || Kafka Admin from India**
+
+Email Me 👉 ✉️ **mkroy030719@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** Pose Correction Application
+- 🌱 **I’m currently learning:** Generative AI (GenAI)
+- 👯 **I’m looking to collaborate on:** Automatic Detection on DOTA Dataset
+- 🤔 **I’m looking for help with:** None
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** mkroy030719@gmail.com
+- 😄 **Pronouns:** Manas
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/manasroy_!3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manasroy13) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mkroy030719@gmail.com) 
@@ -8,6 +21,12 @@
 ![](https://github-readme-stats.vercel.app/api?username=manasroy13&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=manasroy13&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=manasroy13&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=manasroy13&theme=radical&no-frame=false&no-bg=true&margin-w=4)
